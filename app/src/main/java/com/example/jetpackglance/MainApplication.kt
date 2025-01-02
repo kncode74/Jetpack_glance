@@ -1,7 +1,6 @@
 package com.example.jetpackglance
 
 import android.app.Application
-import com.google.firebase.crashlytics.internal.model.CrashlyticsReport
 import mvvm.mvvm.GasTrackerViewModel
 import mvvm.mvvm.manager.HttpManager
 import mvvm.mvvm.repository.GasTrackRepository
